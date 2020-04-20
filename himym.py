@@ -23,37 +23,20 @@ class HMBot():
     def enterEpisode(self,episode):
         ep = self.browser.find_element_by_css_selector(f"#pagecontent > div.box.community-content.forum-box > div.boxbody > table > tbody > tr:nth-child({episode}) > td.topic-titles.row2 > h3 > a")
         print(ep.text)
-        print("Entering: ",f"#pagecontent > div.box.community-content.forum-box > div.boxbody > table > tbody > tr:nth-child({episode}) > td.topic-titles.row2 > h3 > a")
         ep.click()
-
-        while True:
+        for i in infinitenumbers(0):
             try:
-                self.browser.find_element_by_xpath("/html/body/div[2]/div[2]/div[3]/div[1]/div[2]/div/div/div/div[2]/p[5]")
-                break
+                a = self.browser.find_elements_by_tag_name("p")[i].text
+                if (":" in a):
+                    print(a[:a.index(":")+1])
             except:
-                pass
-        attempt = 0
-        for i in infinitenumbers(1):
-            if (attempt > 100):
-                self.browser.execute_script("window.history.go(-1)")
                 break
-            attempt += 1
-            try:
-                self.browser.find_element_by_xpath(f"/html/body/div[2]/div[2]/div[3]/div[1]/div[2]/div/div/div/div[2]/p[{i}]")
-                print(a.text[:a.text.index(":")+1])
-                attempt = 0
-            except:
-                pass
+        self.browser.execute_script("window.history.go(-1)")
 
 bot = HMBot()
 
-attempt = 0
 for i in infinitenumbers(7):
-    if (attempt > 30):
-        break
     try:
         bot.enterEpisode(i)
-        attempt += 1
-    except Exception as e:
-        print(e)
+    except:
         pass
