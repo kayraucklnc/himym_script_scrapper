@@ -3,6 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
+import operator
 import time
 import pdb
 
@@ -23,13 +24,9 @@ class HMBot():
         self.browser = webdriver.Chrome(r'C:\Users\Kayra\Desktop\Projects\chromedriver_win32\chromedriver.exe',chrome_options=options)
         self.browser.get("https://transcripts.foreverdreaming.org/viewforum.php?f=177")
 
-    def enterEpisode(self,episode):
-        ep = self.browser.find_element_by_css_selector(f"#pagecontent > div.box.community-content.forum-box > div.boxbody > table > tbody > tr:nth-child({episode}) > td.topic-titles.row2 > h3 > a")
-        self.browser.implicitly_wait(0.5)
-        print(ep.text)
-        ep.click()
+    def enterEpisode(self):
         WebDriverWait(self.browser, 1).until(EC.presence_of_all_elements_located((By.TAG_NAME, 'p')))
-        for i in infinitenumbers(0,15):
+        for i in infinitenumbers(0,-1):
             try:
                 a = self.browser.find_elements_by_tag_name("p")[i].text
                 if (":" in a):
@@ -40,8 +37,7 @@ class HMBot():
                     else:
                         ppl[person] = 1
             except Exception as e:
-                print(e)
-                print("==========================")
+                # print(e)
                 break
         self.browser.execute_script("window.history.go(-1)")
         time.sleep(0.5)
@@ -54,7 +50,7 @@ link = 6
 pg = 1
 try:
     for i in infinitenumbers(0,-1):
-        if (pg >= 8):
+        if (pg >= 9):
             break
         link += 1
         if (attempt > 3):
@@ -69,7 +65,23 @@ try:
         try:
             time.sleep(0.5)
             attempt += 1
-            bot.enterEpisode(link)
+
+            ep = bot.browser.find_element_by_css_selector(f"#pagecontent > div.box.community-content.forum-box > div.boxbody > table > tbody > tr:nth-child({link}) > td.topic-titles.row2 > h3 > a")
+            bot.browser.implicitly_wait(0.5)
+            print(ep.text)
+            header = ep.text
+
+            most = open("mosttalk.txt","a+")
+            ppl = dict()
+            ep.click()
+            bot.enterEpisode()
+            mostt = max(ppl.items(), key=operator.itemgetter(1))[0]
+            print(mostt,ppl[mostt])
+            # tes = ep.text + "\t" + mostt + "\t" + str(ppl[mostt]) + "\n"
+            most.write(header[:header.index(" - ")] + "\t" + mostt+"\n")
+            most.close()
+
+            print("==========================")
             attempt = 0
         except Exception as e:
             print(e)
@@ -81,8 +93,8 @@ except:
     lok.write(ppl.values())
     lok.close()
 
-file = open("Talks.txt","a+")
-ppl = {k: v for k, v in sorted(ppl.items(), key=lambda item: item[1],reverse=True)}
-for key,value in ppl.items():
-    file.write(key+" "+str(value)+"\n")
-file.close()
+# file = open("Talks.txt","a+")
+# ppl = {k: v for k, v in sorted(ppl.items(), key=lambda item: item[1],reverse=True)}
+# for key,value in ppl.items():
+#     file.write(key+" "+str(value)+"\n")
+# file.close()

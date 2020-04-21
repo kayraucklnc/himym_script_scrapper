@@ -1,0 +1,1466 @@
+Ted: 6492
+Barney: 5012
+Marshall: 4544
+Robin: 4007
+Lily: 3824
+Ted (2030): 899
+Narrator: 467
+Man: 252
+Stella: 225
+Woman: 224
+Zoey: 191
+Victoria: 148
+All: 102
+Nora: 98
+Jerry: 93
+Mr Druthers: 90
+Don: 78
+James: 77
+Arthur: 67
+Ranjit: 65
+Jen: 56
+Doug: 55
+Abby: 53
+Girl: 52
+Randy: 49
+Captain: 46
+Judy: 45
+Ted's mother: 45
+Brad: 45
+Trudy: 44
+Punchy: 43
+Claudia: 41
+Loretta: 41
+Pete: 39
+Bilson: 39
+Wendy: 39
+Tony: 39
+Carl: 38
+Bob: 38
+Mike: 37
+Ellen: 35
+Ted's father: 35
+Sandy: 34
+BARNEY: 34
+Blah-blah: 33
+Karen: 32
+Jim: 32
+Gael: 31
+Marvin: 30
+Cindy: 30
+Mickey: 30
+TED: 29
+Natalie: 28
+Waitress: 28
+Voice: 28
+Simon: 28
+Student: 28
+Mary: 27
+Rachel: 27
+MARSHALL: 27
+Stuart: 26
+Man 2: 25
+Both: 25
+Katie: 24
+Pr Lewis: 24
+Honey: 24
+Waiter: 23
+George: 23
+Garrison: 22
+(laughing): 22
+Sarah: 21
+Heather: 21
+Announcer: 21
+(whispers): 21
+Woman 2: 20
+Man 1: 20
+PJ: 20
+Royce: 20
+Amy: 19
+Betty: 19
+Jenkins: 19
+Becky: 19
+ROBIN: 19
+Penelope: 18
+Robin Sparkles: 18
+Mitch: 18
+Tiffany: 18
+Steve: 18
+[Title: 17
+Kevin: 17
+Everyone: 17
+Amanda: 17
+Scooter: 17
+College Marshall: 17
+Boy: 16
+Sam: 16
+(quietly): 16
+Shelly: 15
+Maggie: 15
+Anita: 15
+Stangel: 15
+Laura: 14
+Doctor: 14
+Shannon: 14
+Women: 14
+Stacy: 14
+Barney (old): 14
+Stan: 14
+Barmaid: 14
+Nate: 14
+(whispering): 14
+LILY: 14
+Colleen: 13
+Jillian: 13
+Max: 13
+BOTH: 13
+Mr. Ericksen: 12
+Moby: 12
+College Ted: 12
+Woman 1: 12
+Blitz: 12
+(sobbing): 12
+Tatiana: 11
+Coat Check Girl: 11
+Blauman: 11
+Jeff: 11
+Curt: 11
+Grant: 11
+Police: 11
+Jessica Glitter: 11
+Son: 10
+Daughter: 10
+Marcus: 10
+Mrs. Ericksen: 10
+Ted and Robin: 10
+Molly: 10
+Henrietta: 10
+The cardiologist: 10
+Officer McNeil: 9
+Mary Beth: 9
+Bouncer: 9
+Clint: 9
+Policeman: 9
+[TITLE: 9
+Holly: 9
+Scotty: 9
+Jed: 9
+Chairman: 9
+(crying): 9
+Bartender: 8
+Future Ted: 8
+Hula Girl: 8
+Kendall: 8
+Cab driver: 8
+Anna: 8
+Robot: 8
+Barman: 8
+Ted(2030): 8
+Andrea: 8
+Ben: 8
+Bank employee: 8
+Server: 8
+Father: 8
+Matthew: 8
+Milt: 8
+(British accent): 8
+(laughs): 8
+(sighs): 8
+WOMAN: 8
+THE MOTHER: 8
+Mr. Adams: 7
+Kelly: 7
+Tous: 7
+Tyler: 7
+Lindsay: 7
+Robin #2: 7
+Robin's date: 7
+Michelle: 7
+Vicky: 7
+Marshall, thinking: 7
+Marissa: 7
+Meeker: 7
+Cherryl: 7
+Ghost: 7
+Jake: 7
+(voice breaks): 7
+MAN: 7
+Derrick: 6
+Claire: 6
+Marshall, Lily, Barney: 6
+Guy: 6
+Andrew: 6
+Client: 6
+College Lily: 6
+The estate agent: 6
+Regis Philbin: 6
+Lucy: 6
+Sven: 6
+Male 2: 6
+Presenter: 6
+Mother: 6
+Sosia: 6
+Folk singer: 6
+Guard: 6
+QUINN: 6
+(voice breaking): 6
+ALL: 6
+Yasmine: 5
+Dana: 5
+Henry: 5
+Chris: 5
+Clerk: 5
+Little Girl: 5
+Marshall & Lily: 5
+George Clinton: 5
+Ted (from 2030): 5
+Judge: 5
+Priest: 5
+Kid: 5
+Brian: 5
+The girl: 5
+At the apartment, Barney: 5
+[Flashback: 5
+Michael: 5
+Ferguson: 5
+Dr Greer: 5
+Everybody: 5
+Boy 2: 5
+McCracken: 5
+Kenny: 5
+Alan: 5
+Hot Chick: 5
+Virginia: 5
+Bev: 5
+JJ: 5
+Rod: 5
+(Russian accent): 5
+(chuckling): 5
+(chuckles): 5
+(Boston accent): 5
+(normal voice): 5
+JAMES: 5
+DAPHNE: 5
+Marshal: 4
+Crowd: 4
+Bradley: 4
+Phil: 4
+Lily (to Robin): 4
+Not-Moby: 4
+Barney, singing: 4
+Korean Elvis: 4
+Boy #1: 4
+Veterinary: 4
+Robin (on the phone): 4
+Guy 2: 4
+Girl 2: 4
+Ted (V.O.): 4
+Mere: 4
+Truck driver: 4
+Kyle: 4
+Sylvia: 4
+The waitress: 4
+Leonard: 4
+Jefferson: 4
+Meg: 4
+Benjamin: 4
+Female: 4
+Driver: 4
+Boy 1: 4
+Magazine: 4
+Ted, old: 4
+Karen, old: 4
+Tracey: 4
+Children of Ted: 4
+Tim: 4
+Lisa: 4
+Lily, thinking: 4
+Marshall's dad: 4
+Lauretta: 4
+Strangel: 4
+Trey: 4
+Scott: 4
+Norah: 4
+Others: 4
+(panting): 4
+(coughing): 4
+(robot voice): 4
+JEANETTE: 4
+Barney and Ted: 3
+Guy#2: 3
+Sudeep: 3
+Lily, Marshall: 3
+Ericksens: 3
+Walter: 3
+Dancer: 3
+Derek: 3
+Victoria and Robin: 3
+Vampire Lou: 3
+Security guard: 3
+Giant Turtle: 3
+Tracy: 3
+Weather man: 3
+Musician: 3
+Robin (to Ted): 3
+Girl 1: 3
+His mother: 3
+Charity: 3
+MP: 3
+Emmitt Smith: 3
+Brother 2: 3
+At the apartment, Ted: 3
+Cousin: 3
+Marshall and Lily: 3
+Lily's grandma: 3
+Blonde Girl: 3
+Audrey: 3
+Alexa: 3
+Barney (to Robin): 3
+Lilly: 3
+The others: 3
+Ted & Robin: 3
+Next message: 3
+Mark: 3
+Willie: 3
+Barney (present): 3
+Joel: 3
+10: 3
+Stewart: 3
+Radio: 3
+Nicole: 3
+Marshall, old: 3
+Louisa: 3
+Pattern: 3
+Robin and Barney: 3
+Douglas: 3
+Lily Young: 3
+Grocer: 3
+Voices: 3
+Older woman: 3
+Nick: 3
+Ted's wife: 3
+Marsall: 3
+Ted, whispering: 3
+Robin and Jessica: 3
+Mysterious voice: 3
+Barney, laughing: 3
+Reverend: 3
+Marshall's brother #1: 3
+Marshall's brother #2: 3
+Ted's dad: 3
+Barney, coughing: 3
+Head of the environmental Organization: 3
+Clay: 3
+MICKEY (over intercom): 3
+(singsongy): 3
+(over phone): 3
+(deep voice): 3
+(coughs): 3
+JUDGE: 3
+Step one: 3
+DAPHNE'S VOICE: 3
+Cabdriver: 2
+Producer: 2
+Lily, Marshall and Barney: 2
+Lily and Marshall: 2
+Carlos: 2
+Guy#1: 2
+Sascha: 2
+Cute Girl: 2
+Stefanie: 2
+Jackie: 2
+Doorman#2: 2
+Barney, Ted and Robin: 2
+Lily, Marshall, Barney: 2
+Barney (talking like a pirate): 2
+Angel Guy: 2
+Ted (singing): 2
+Girl #2: 2
+Marshall, Ted: 2
+Robin, Ted: 2
+Pregnant Mrs. Ericksen: 2
+Trudy's friend: 2
+Natalya: 2
+Natalia: 2
+Ted, Marshall: 2
+(Robin looks at Ted) Ted: 2
+Tanya: 2
+Robin and Lily: 2
+Dr. Birnholz: 2
+Man #1: 2
+Man #2: 2
+Singer: 2
+Security guard #1: 2
+The previous day, at the apartment.Ted from 2030: 2
+The waitress (taking a photo): 2
+A girl: 2
+Girls: 2
+Guy 1: 2
+Kara: 2
+Head waiter: 2
+Lily (walking in): 2
+Lily (coming in Robin's): 2
+Lily (arriving): 2
+Mr Druthers (arriving): 2
+Barney (stepping into the office, speaking with an Italian accent): 2
+[FLASHBACK]Mr Druthers: 2
+Mr Druthers (to a kid): 2
+Chinese 2: 2
+Girl #1: 2
+Charles: 2
+Co-worker: 2
+Sid: 2
+Trish Sanchez: 2
+Brother 1: 2
+Mechanic: 2
+Rich: 2
+At the apartment, Robin: 2
+Bill: 2
+Lily (voiceover): 2
+Rachel, Trudy: 2
+Brunette Girl: 2
+Little Barney: 2
+Brooke: 2
+Marshall VO: 2
+Lily VO: 2
+Warrior Avatar: 2
+Female Avatar: 2
+[Rewind] Marshall: 2
+The host: 2
+Woman 1, to Ted: 2
+Woman 2, to Woman 1: 2
+Cleaner: 2
+Kate: 2
+Robin, laughing: 2
+Frank: 2
+Pitt: 2
+Starry: 2
+Lawrence: 2
+It's 10: 2
+April: 2
+Marshall(to the mirror): 2
+Marshall voiceover: 2
+Regis: 2
+Purifier: 2
+Men: 2
+Misty: 2
+Children: 2
+Male: 2
+Seller: 2
+Rochelle: 2
+Referee: 2
+Lily, old: 2
+Robin, entering: 2
+Arty: 2
+Toy-man: 2
+Barney, entering: 2
+Ms. Matsen: 2
+Barney and Robin: 2
+A boy: 2
+Marsahll: 2
+Marhsall: 2
+Ted and Marshall: 2
+Alan Thicke: 2
+Neighbor: 2
+Elderly Woman: 2
+Jamie: 2
+Adam: 2
+Lily, with a deep voice: 2
+Marshall Young: 2
+Barney conscience: 2
+Raspberry: 2
+Robin, on the phone: 2
+Will: 2
+Ted, thinking: 2
+Sosie: 2
+Sam Gibbs: 2
+TV Speaker: 2
+Barney's Secretary: 2
+Marshall's daughter: 2
+Robin, slurring: 2
+Sailor #1: 2
+Animator: 2
+Barney & Ted: 2
+Nathan Hale: 2
+Marvin's voice: 2
+Saint Desperatius: 2
+MARVIN: 2
+Assistant: 2
+Ted's voice: 2
+Barney, turning: 2
+Lily, slapping him: 2
+Lily and Robin: 2
+Marshall's voice: 2
+Answer: 2
+Eerie Whispering: 2
+(in high-pitched voice): 2
+(groaning): 2
+VICTORIA: 2
+(sighing): 2
+One question: 2
+(loudly): 2
+(sobs): 2
+(high-pitched voice): 2
+(scoffs): 2
+(high-pitched): 2
+TED (on video): 2
+JURY: 2
+BRAD: 2
+Oh! ROBIN: 2
+(distorted): 2
+TED (mocking): 2
+(echoing): 2
+I'll unjinx you if you'll follow these two rules: 2
+2: 2
+That is why we will see you tonight from 7: 2
+Uh, "9: 2
+BOTH (crying): 2
+Step two: 2
+Step three: 2
+Step four: 2
+Step five: 2
+Step six: 2
+Step seven: 2
+Step eight: 2
+Step nine: 2
+Step ten: 2
+Step 11: 2
+Step 12: 2
+Step 13: 2
+Step 14: 2
+Step 15: 2
+(screams): 2
+(Scottish accent): 2
+(booming voice): 2
+(choked up): 2
+Manhattan to Farhampton: 2
+PILOT: 2
+CONDUCTOR: 2
+(whispering loudly): 2
+RANJIT: 2
+What? TED: 2
+Well, it's kind of nice to be asking this question instead of answering it for a change: 2
+BOTH TEDS: 2
+(echoing whisper): 2
+Remember: 2
+CLINT: 2
+(à la Borat): 2
+[Cut to Later: 1
+Robin's Dumped Friend: 1
+Waitor: 1
+Son and Daughter: 1
+Rangit: 1
+Cameraman: 1
+Leroy: 1
+Fantasy Girl: 1
+Lily and Ted: 1
+Marshall, Lily and Ted: 1
+Mashall, Lily and Ted: 1
+Fight Attendant: 1
+Guy#3: 1
+Mashall: 1
+Bomb Squad Guy: 1
+Cabdriver#2: 1
+Marshall and Ted: 1
+One Guest: 1
+Austin: 1
+Man on Street: 1
+Lily (interrupting): 1
+Lily (in a sing-song voice): 1
+Barney (in a sing-song voice): 1
+Lily (from bedroom): 1
+Lily (like parrot): 1
+Marshall (aside to Lily): 1
+King Costume Guy: 1
+Shagarats: 1
+Barney (talking like pirate): 1
+Lily, Robin: 1
+Marshall (like pirate): 1
+Barney (to Angel Guy): 1
+Hula girl: 1
+Barney (through office door): 1
+Sarah (joining in singing): 1
+Sarah (on answering machine): 1
+Mr. Madsen: 1
+(Lily looks up at Waitress) Waitress: 1
+Barney (yelling to Katie as she leaves): 1
+Barney (to Robin and Ted at other table): 1
+Delivery guy: 1
+Marshall (in British accent): 1
+(Marshall picks up other sword) Marshall: 1
+Marshall (on tape): 1
+(Lily shakes her head) Marshall: 1
+Daughter, Son: 1
+Marshall, Barney: 1
+Marshall, Lily: 1
+(Lily and Marshall sitting in living room area, Ted walks in from his room) Lily: 1
+(Barney gestures behind him and finds that Ted's not there, sees Ted standing by jukebox with his phone) Barney: 1
+(Barney looks at Lily and Marshall and Ted, stumbles over to Ted's room and peeks in, closes door and stumbles back to living room) Barney: 1
+(Ted gets his phone out) Trudy: 1
+(Ted points to Robin) Ted: 1
+(Barney and Lily high-five) Marshall: 1
+(Barney and Claudia sit next to each other in booth) Claudia: 1
+(Claudia turns around and tries to attack Ted, Ted runs away) Future Ted VO: 1
+(flashback to Ted and Victoria at wedding) Victoria: 1
+(Ted on phone in his apartment) Ted: 1
+Nirvana: 1
+Victoria's voice: 1
+Little Boy: 1
+Director: 1
+Lily, waking up: 1
+Todd: 1
+Boy #2: 1
+Security guard #2: 1
+Security guards: 1
+Paramedic: 1
+Voice mail: 1
+Waiters: 1
+Ted's daughter: 1
+Ted's son: 1
+Stripper: 1
+Waiter/Joey Adalian: 1
+DAY FIFTY-SEVEN, at the apartment.Ted from 2030: 1
+Ted (on the phone): 1
+At MacLaren's.Ted from 2030: 1
+In San Francisco, in a bus.Man 1: 1
+Marshall (to the girl): 1
+Barney (with you're a jerk writing on his hand): 1
+In a building.Ted from 2030: 1
+(Lily come back.)Lily: 1
+In an other spot of the Scorpion & the Toad.Barney (to a girl): 1
+Marshall (choking Barney): 1
+In a snack-bar.Ted from 2030: 1
+Robin (laughing): 1
+Twin 1: 1
+Twin 2: 1
+Lily (looking at Marshall): 1
+Barney (laughing): 1
+At "Casa a pezzi". Barney is playing the piano.Ted's father: 1
+Ted's father (talking to a girl): 1
+(Flashback: 1
+Ted's mother (to Robin): 1
+Outside.Ted's father: 1
+Back inside, later.Ted's mother: 1
+Both Marshall and Barney: 1
+Barney (brokenly): 1
+Marshall (suavely): 1
+Guy 2 (to guy 1): 1
+Girl (to the bouncer): 1
+Barney (tied up to the bed): 1
+Barney (coming back in the bar): 1
+Barney (to the girl): 1
+Anna's apartment. Anna's reading the letter Barney left.Barney's voice: 1
+Marshall (arriving): 1
+At Barney's apartment.Barney (on the phone): 1
+[FLASHBACK. Lily tries to spread out her bed and the wall collapses]Lily (to her Lithuanian neighbor): 1
+At MacLaren's: 1
+Lily (jumping on the bed): 1
+Lily (getting down on one knee): 1
+[FLASHBACK]Marshall (on the phone): 1
+Chinese 1: 1
+Robin (arriving, wearing a "shirt boobs"): 1
+Ted (looking at Robin's shirt): 1
+Ted (to Robin): 1
+Both Marshall and Lily: 1
+Ted (wearing Robin's shirt boobs): 1
+Girl #3: 1
+(back to present scene) Ted: 1
+(flashback of Lily and Marshall talking in bed) Lily: 1
+Marshall, lily, Robin: 1
+Barney and James: 1
+Tes (voix off): 1
+James and Barney: 1
+Rosa: 1
+Ted (voix dans le répondeur): 1
+Ted to Robin: 1
+A kid: 1
+Both kids: 1
+Ted ( to the family): 1
+Robin is sick and in bed: 1
+Robin : 1
+fact number one: 1
+Ted (on the bed of the top): 1
+Ted (V.O.) : 1
+His kids: 1
+Mr. Druthers: 1
+Employees: 1
+Mr Druters: 1
+Men (singing): 1
+Lou: 1
+Marshall (at school): 1
+Barney (tearing the newspaper): 1
+Rubin: 1
+Old lady: 1
+Ted( voix off): 1
+Ex-girlfriend 1: 1
+Ex-girlfriend 2: 1
+Ex-girlfriend 3: 1
+Marshall (in the front row): 1
+Ted(voix off): 1
+Ted and Marshall singing: 1
+Robibn: 1
+.Barney: 1
+Maechanic: 1
+Brother: 1
+So, I can have the moving truck here by 8: 1
+Hey, hypothetical question: 1
+The category: 1
+Tes: 1
+Bareney: 1
+Barney's mom: 1
+Barney(in front oft he tv): 1
+Bareny (dressed as Bob Barker): 1
+Barney (throwing a ball at the TV): 1
+Ted (last year): 1
+Ted (giving the toast): 1
+Ted(giving the toast): 1
+At the apartment, all: 1
+At the apartment, Lily: 1
+At the apartement, Lily: 1
+Millie: 1
+At the apartment, Marshall: 1
+Robin (voive over): 1
+Ted (voice over): 1
+Man( with a camera): 1
+Janna: 1
+Lily (burping): 1
+[The Apartment - Robin/Gael/Marshall/Lily]Robin: 1
+The Girl: 1
+(Cut to fantasy: 1
+Amy's friend: 1
+[The Tattoo parlor - Ted/Amy/A guy]Ted: 1
+[The hallway outside Robin's Apartment - Ted/Robin]Ted: 1
+[The Bar - Ted/Marshall/Barney]Ted: 1
+Narrtor: 1
+(The countdown reads 55: 1
+["How I Met Your Mother", credits]Narrator: 1
+Marshall (voiceover): 1
+[Flashback - Argentina - Gael/Robin]Robin: 1
+A guy (but he's not Gael): 1
+[The Apartment - Lily/Marshall]Lily: 1
+[South of Bronx - Ted/Barney/Colleen/Lindsay]Ted: 1
+Collee: 1
+Barney, Marshall: 1
+(flashback to Barney removing a large belt from a box) Barney: 1
+Trudy, Rachel: 1
+(back to present scene) Barney: 1
+(back to present scene in Ted's room) Barney: 1
+Trucy: 1
+(Barney lifts up belt) Barney: 1
+Robins' date: 1
+Little Robin: 1
+(flashback to Robin and George walking on street having ice cream on their date) Robin: 1
+(Barney and Ted sit at booth) Barney: 1
+(flashback to Ted telling Barney about Stacy) Ted: 1
+Stacy, Barney: 1
+Marshall, Lily VO: 1
+(Barney is about to say something) Ted: 1
+(back from commercial break) Blah-blah: 1
+College Guy: 1
+College students: 1
+(Ted rushes up from table) Ted: 1
+[Flashback - At the doctor's - Ted/Ted doctor's]The doctor: 1
+[End Flashback]Ted: 1
+Marshall (yelling): 1
+Lily (to Marshall): 1
+[The apartment -Barney/robin- They smoke a cigar and watch a catch game on tv]Together: 1
+Ted (gets out of the kitchen): 1
+Lily (on the sofa): 1
+NArrator: 1
+Robin (alone): 1
+[A building in Dowisetrepla- An appartment -Marshall/Lily/An estate agent]The estate agent: 1
+Boys: 1
+[The living room- Barney makes a sign to the estate agent]Barney: 1
+Lily (to marshall): 1
+[The bar ]Ted: 1
+Marshall, Ted, Barney: 1
+(The guys carry the bottle of champagne on the table): 1
+Marshall (to Ted): 1
+[The building in Dowisetrepla]Narrator: 1
+The girl (taking picture on the table): 1
+[A bank's office - Lily/Marshall/a bank employee]Narrator: 1
+Robiin: 1
+[Flashback - The apartment- Lily/Marshall - They quarrel]Ted (voice off): 1
+Phone Voice: 1
+Barney (going to cry): 1
+ted: 1
+Marshall (in the same time): 1
+Wendy, upset, with a black eye: 1
+Together: 1
+Now, months later, the results of that exam were scheduled to post online at 10: 1
+It's true what they say: 1
+Marshall, on the phone with Barney: 1
+Barney, with a funny accent: 1
+Marhall: 1
+Lily and Marshall (laughing): 1
+Ted (gets out of his bedroom): 1
+Ted (combs his hair): 1
+wendy: 1
+A man: 1
+A women: 1
+Barney (off voice): 1
+Barney (to Marshall and Lily): 1
+Barney (guessing): 1
+Marshall(at the same time): 1
+Barney (to Lily and Marshall): 1
+Productor: 1
+[3 plans on the same time: 1
+Lily (reads a post-it): 1
+Lily (same time): 1
+Barney (in slow motion, comes towards Marshall): 1
+Marshall&Lily (to Michael&Laura): 1
+(Wendy comes to the table and offers a drink to Barney): 1
+In fairness, I did call Ted's butt at, like, 2: 1
+So on March 17, 2008, I went to a big St. Patrick's Day party. And it's a good thing I did, because, funny story: 1
+Okay, it's official: 1
+There's three rules of cheating: 1
+First skipped message: 1
+And then last night started coming back to me: 1
+Woman 1, to Woman 2: 1
+Woman 2, to Woman 3: 1
+Woman 3, to Stella: 1
+Stella, to Woman 3: 1
+Woman 3, to Woman 2: 1
+Abby, laughing: 1
+Stella, laughing: 1
+Woman, slapping him: 1
+Mystery woman: 1
+Marshal, Lily and Ted: 1
+Barney, pouring some water in a glass: 1
+Robin, giggling: 1
+Barney (he is at work, in the phone): 1
+All (except Ted): 1
+Marshall (watching on Internet): 1
+Marshall (in the phone): 1
+Lily & Marshall: 1
+God sent those lice to my head like he sent the locusts to Egypt: 1
+I know what he saw: 1
+Mark Johnson: 1
+Marshall to lily: 1
+Marshall to Barney: 1
+Marshall to himself: 1
+Marshall to Robin: 1
+Barney (on the phone): 1
+Barney (to lily): 1
+Marshall (to the mirror): 1
+Wendy (taking note): 1
+Man in the street (Distributing pamphlets): 1
+Marshall (Raising hands in the sky.): 1
+Marshall (getting up): 1
+Marshall (Watching Ted): 1
+Regis Philbin (Lifting weights): 1
+Regis Philbin(He knocks in a bag of boxing.): 1
+Regis Philbin (Threatening him with his fists.): 1
+Regis Philbin (Taking Barney by the collar): 1
+Regis Philbin (To Marshall): 1
+Marshall (taking Robin's burger in his hands): 1
+"Million Dollar: 1
+Robin (On nerves): 1
+Marshall (to the waitress): 1
+Marshall (putting his burger in his plate): 1
+Regis Philbin (in front of the last restaurant): 1
+Regis Philbin (screaming): 1
+Man in the streets: 1
+Robin (getting crazy): 1
+Robin (Licking an envelope.): 1
+Stella (descending): 1
+Biran: 1
+She leaves home and takes Stella the bike that is on the porch. It is 10: 1
+Matisse: 1
+Barney (incoming): 1
+Stella (taking the glass of Barney): 1
+Sister Stella: 1
+Stella (Ted taking the glass): 1
+Host: 1
+Father of Robin: 1
+Then a woman walks with a dog and a child on his stomach, followed by several puppies Marshall: 1
+Mr. Li: 1
+Woman (in a limo): 1
+Ike: 1
+Robin (on phone): 1
+Barney (a pencil in his nose): 1
+A brother: 1
+Doug (on phone): 1
+Barney (singing): 1
+Man 3: 1
+Ted (holding Lily): 1
+Man (speaking): 1
+Leader: 1
+Barney (the appliance store): 1
+Marshall turns his sign which says: 1
+Melissa: 1
+Marshall at the office: 1
+Ted and Betty: 1
+1: 1
+Marshall (disguised): 1
+Lily (arriving disguised): 1
+Friday, 3: 1
+Barney by nightdress: 1
+Robin, old: 1
+Marshall and Barney: 1
+Roy: 1
+Marshall, Lily and Barney: 1
+Snowshoeing: 1
+Roger Murtaugh: 1
+Robin, out of the room: 1
+Toy-Man: 1
+Massage man, massaging the shoulders of Marshall: 1
+Douglas, Barney: 1
+Ted, by phone at PJ interposed: 1
+Grub-man: 1
+Chow-Man: 1
+Clown: 1
+Woman 3: 1
+Pauline: 1
+Fran: 1
+Ted, crying: 1
+Ted, with a lookalike Stella: 1
+Lookalike Stella: 1
+Woman, leaving her: 1
+Stella, shouting: 1
+2009: 1
+And after having s*x: 1
+Blond Girl: 1
+Another boy: 1
+Another girl: 1
+Ted (2030 ): 1
+Blond girl: 1
+Other professor: 1
+Professor: 1
+TED (2030): 1
+Marshall : 1
+Delivery girl: 1
+Ted and Jen: 1
+All the other: 1
+The other: 1
+Ted imagines: 1
+Girl 3: 1
+Ted ( 2030): 1
+Marshall (looking out the window): 1
+Shin-Ya: 1
+Marshall (voice): 1
+Marshall (always singing in the video): 1
+Marshall (singing on the video): 1
+Barney and Robin are walking sadly in the street. We can hear a song: 1
+fighting: 1
+All singing: 1
+Ted, joining them: 1
+Marshall, in bar with Lily: 1
+Marshall, entering with "a hat with drink": 1
+Lily, fighting Ted: 1
+Marshall and Ted, singing: 1
+Lily, on the roof of the car: 1
+Barney, seeing himself in the window of the restaurant: 1
+Meg-the-crazy: 1
+Meg-the-insane: 1
+Ms. Stinsfire: 1
+Ted, with chicken fingers in the mouth: 1
+All, making the chorus: 1
+Robin and Ted: 1
+Rita: 1
+Grandfather: 1
+Whitney: 1
+Marshall, in video on the computer: 1
+Mickey, sitting on the floor: 1
+Marshall, tapping on a glass: 1
+Lily, a man: 1
+Student 2: 1
+Luis: 1
+Ted, always current: 1
+Robin, Jim: 1
+Ted, in front of Maggie: 1
+Waitress at the old Marshall: 1
+Old Marshall: 1
+Chief: 1
+Ted and Barney: 1
+Don, who arrive without pants: 1
+Young Marshall: 1
+Barney, running down the street: 1
+Barney, singing and dancing in the street: 1
+Marshall, doing the same: 1
+Ted, Marshall, Lily: 1
+Barney, joining them: 1
+All, the student bar: 1
+Ted, from seeing Barney: 1
+Overall: 1
+Mr Donovan: 1
+TV anchor: 1
+Red-sweater girl: 1
+All of them: 1
+All the them: 1
+Mother of Henrietta: 1
+Jack: 1
+Marshall, with the phone in the kitchen: 1
+Ted singing: 1
+Ted, still singing: 1
+Anita, Ted: 1
+The alarm goes off at 12: 1
+The clock shows 9: 1
+Marshall Robin. Your part is this: 1
+Mayor: 1
+Robin, out of his room: 1
+Delivery Man: 1
+Robin, who happens: 1
+Lily, what happens: 1
+Clint, singing: 1
+Man going: 1
+Ted, leaving her room: 1
+Ted, an apron: 1
+Robin, at the window: 1
+Lily, holding Barney: 1
+Marshall, laughing: 1
+Will Shortz: 1
+Ted wrestler: 1
+Jed Mosley: 1
+Man and woman: 1
+Ted stood up: 1
+Child: 1
+Robin, on TV: 1
+Robin, thinking: 1
+Barney lookalike: 1
+Barney, thinking: 1
+Lookalike: 1
+Ted & Barney: 1
+The Girl who was reading: 1
+The man: 1
+Basketball coatch: 1
+Chrissy: 1
+Speaker: 1
+Medic: 1
+Maury Povich: 1
+Man, in a calculator display: 1
+Transvestite: 1
+Rob: 1
+Marshall and his friends, singing: 1
+(Marshall is visualizing high school boys singing a song for his daughter: 1
+then in a club: 1
+ANNOUNCER: 1
+Student #1: 1
+Student #2: 1
+The Bar: 1
+GNB announcer: 1
+Randy, thinking: 1
+Randy, wailing: 1
+Arthur, entering the room: 1
+Russel: 1
+Museum guard: 1
+Ted's voice (on a recording): 1
+Jessica, singing: 1
+Jessica: 1
+Bar Tender: 1
+Everyone, chanting: 1
+Babaka: 1
+Barney, crying: 1
+Liy: 1
+Sailor #2: 1
+Jordan: 1
+Jordin: 1
+Ted, yelling: 1
+Barney, singsongy: 1
+Robin, stuttering: 1
+Man #3: 1
+Man #4: 1
+Robin, hushing: 1
+Lily's dad: 1
+Robin's dad: 1
+Barney, his voice breaking: 1
+Robin, with a Minnesotan accent: 1
+Honey, whispering: 1
+Barney, whispering: 1
+Ted, laughing: 1
+Honey, giggling: 1
+Barney, sobbing: 1
+Neighbour: 1
+ARNOLD SCHWARZENEGGER: 1
+Saint Valentine: 1
+Marshall, whispers: 1
+Ted & Marshall: 1
+SCHWARZENEGGER (over TV): 1
+Tv: 1
+Ted, on the phone with Robin: 1
+Jerry (Barney's dad): 1
+Prof. Rodriguez: 1
+Barney, weakly: 1
+Barney, with a mean laugh: 1
+Jerry, laughing: 1
+Ted, whispering to Robin: 1
+Jerry, looking horrified: 1
+Ted, loudly: 1
+Jerry, to a big tattoed biker: 1
+Jerry, to a dummy wearing a biker outfit: 1
+Ted, chuckling: 1
+Man, on the phone: 1
+Delivery Guy: 1
+Robin, in a high-pitched voice: 1
+Marshall, to the girl Barney is talking to: 1
+Marshall, talking to a mirror: 1
+Robin & Lily: 1
+Audience: 1
+Ghost, shouting dramatically: 1
+Ted, panting: 1
+Ted, on recorder: 1
+Both Ted and Barney, at the same time: 1
+Foreman: 1
+Ted, while texting on his phone: 1
+Marshall, picking up his phone: 1
+announcer: 1
+voice: 1
+Ted, leaving the florist's shop: 1
+Marshall, lifting the shirt of Lily: 1
+Kelly and Punchy: 1
+Ted, Barney and Robin: 1
+Kelly's father: 1
+Punchy's father: 1
+Two things: 1
+Maybe you should write on your little chart there: 1
+Sweetheart, it's like Maya Angelou keeps telling Oprah, and I keep telling you: 1
+The Cold Call 5000 will dial every female client between the ages of 22 and 23, and leave the following message: 1
+Here's how it happened: 1
+Well that's fine for something-ology, but tomorrow at 9: 1
+Well, it's 9: 1
+Show of hands: 1
+Ultimately, Ewoks split Star Wars fandom into two camps: 1
+Hey, I just want to remind you we have Dr. Sonya at 4: 1
+We got our settlement offer today: 1
+Class, show of hands: 1
+I mean, just look at the sample: 1
+Yeah, dude. I mean, all jobs suck, but it's 4: 1
+(voice cracking): 1
+Older Ted: 1
+Barney/Robin: 1
+For most of last year, she was engaged... to a mini fridge. And there's pictures: 1
+Robin, Lily & Marshall: 1
+Well, if Ted said that, I've got something to complain about, too: 1
+And then it hit me: 1
+(falsetto): 1
+It's me: 1
+I don't feel intimate with her. "Intimate"? Let me remind you of some things you did feel "intimate" with when you were 15: 1
+Naomi: 1
+(Canadian accent): 1
+Marshall, ask yourself this question: 1
+A special welcome our four new interns: 1
+One safety matter: 1
+One: 1
+Two: 1
+Three: 1
+Four: 1
+Or five: 1
+4: 1
+Number one: 1
+Name: 1
+Okay, real quick: 1
+Because Big Fudge has come to town, and he brought his two friends: 1
+Okay, first on the registry: 1
+Um, you: 1
+ROBIN (gasps): 1
+(hushed): 1
+Mourner: 1
+(softly): 1
+That's how the government covered up the UFO crash in Roswell: 1
+So, as the countdown to 212 continues, a quick warning, America: 1
+it's a different book, begging the question: 1
+So here's the deal: 1
+So get this: 1
+(imitating Lily): 1
+(trailing off): 1
+This is gonna be awesome, and when it is, I want you all to remember who led you there: 1
+LILY (over intercom): 1
+(over intercom): 1
+MICKEY (muffled): 1
+BOTH (weakly): 1
+Yeah. Marshall's been working very long hours lately, so I have been planning this whole party by myself, and everything's in place: 1
+Bottom line: 1
+That's the problem with E.P.S.: 1
+It's called: 1
+(whispers loudly): 1
+Ted, when I was at M.I.T., my favorite Einstein quote was: 1
+Okay, I'll give you this: 1
+So, the question becomes: 1
+TED (to self): 1
+Uh, our flight leaves at 9: 1
+But, Robin, the schedule says 9: 1
+It's 7: 1
+(sultry): 1
+Okay, but, Barney, just remember, you'll also be seeing a lot of this: 1
+And by the end of the night, one thing had become clear: 1
+EMCEE: 1
+It's 8: 1
+I liked smoking meat, but now I've got a new passion: 1
+(Gregorian chant over stereo): 1
+We've been spending tons of time together, and I want the gang to meet her. but I'm afraid they're gonna disapprove because, well, you know. NARRATOR: 1
+So, when we walk back through that door three hours from now, we should all be able to answer one simple question: 1
+ROBIN/TED: 1
+Okay, I'll just say it: 1
+And now my boss wants to see me Friday at 5: 1
+I'll keep saying stuff like: 1
+Wait for it. Next, BARNEY: 1
+Every night at exactly 8: 1
+Last night, I had just come back from my 8: 1
+Just one little thing: 1
+(speaking French): 1
+I don't know what I love more: 1
+Anyway, while it's just us guys, let me ask you something: 1
+And I'll give him this: 1
+And just know this: 1
+But then it hit me: 1
+(moaning): 1
+Can only mean one thing: 1
+And here it is: 1
+But here's the crazy part: 1
+(imitates Redd Foxx): 1
+Better wardrobe: 1
+Apartment on a higher floor: 1
+Longer name: 1
+Made up the point system: 1
+Last year, I slapped on a dress, took a few laps around this very bar, and I got this: 1
+REPORTER: 1
+Every night, between 9: 1
+But if they had any idea how difficult it is: 1
+And kids, the first girl I found was amazing: 1
+Hello. BARNEY: 1
+For instance, Uncle Marshall swears he never said: 1
+And he claims he never actually uttered the words: 1
+While Lily insists this part was exaggerated: 1
+But everyone agrees this is how the argument ended: 1
+(angry grunt): 1
+The next girl: 1
+(growling): 1
+Proposal: 1
+SON: 1
+HOMELESS GUY: 1
+Okay, okay, I got one for you: 1
+(grunting): 1
+No, ever since I got them, terrible things have been happening to me: 1
+AUTOMATED VOICE: 1
+(à la Schwarzenegger): 1
+ROBIN and MARSHALL: 1
+Because as your friend, I have to tell you: 1
+Look at the women you date, starting with me: 1
+See, two different styles: 1
+Ted, we are responsible for a whole other human life now, so new rule: 1
+This is the same as what's in little Marvin's pants right now: 1
+into my head: 1
+MacLaren's at 2: 1
+Is 1: 1
+MRS. MATSEN: 1
+(gasps): 1
+Sir, I'll tell you her occupation: 1
+Oh, my God, why don't you both just admit it: 1
+But I guarantee you: 1
+Yeah, it's 20 after 7: 1
+I can still make the 8: 1
+I-I just have one quick question: 1
+There is a word in German: 1
+And, sidebar: 1
+Oh, my God, it's 9: 1
+NICK: 1
+(deep, echoing): 1
+So when you're doing the news live at 7: 1
+KLAUS: 1
+MEN: 1
+ROBIN (on TV): 1
+KLAUS (distantly): 1
+LUDWIG: 1
+"Bangtoberfest: 1
+Barney, quick question: 1
+And in the end, the coroner's report confirmed what I already feared: 1
+5: 1
+How am I gonna make it to 3: 1
+MRS. BUCKMINSTER: 1
+New rule: 1
+Babe, I know these guys have been a little over the top lately. LILY: 1
+So, I say again: 1
+Long story short: 1
+(high voice): 1
+Um, I would do what my dad did: 1
+(high-pitched rapping): 1
+Unless you want to get up with us at 5: 1
+TED/ROBIN/BARNEY: 1
+(snickering): 1
+Oh, wait, I probably should have led with this: 1
+(in Southern belle voice): 1
+Um, us nerds focused on something far more important: 1
+End it by 8: 1
+Crazy, right? LILY: 1
+PATRICE: 1
+Here's what you do: 1
+Bottom line, Vito: 1
+TED (French accent): 1
+Now let's go. It is 4: 1
+(on video): 1
+Oh, you see?! This is what I miss about being single: 1
+After that, they did what any two mature adults would do: 1
+Warren Frankel, who knows me. FRANKEL: 1
+How's this for a fact: 1
+♪ WOMAN (sensuously): 1
+Oh, y-you know what, it must be under my street tag: 1
+Go ahead, laugh, laugh like all the others, but those magicians pulled off the greatest trick of all: 1
+For reminding me of why I got into law in the first place: 1
+Would you object to an 11: 1
+Unrelated: 1
+Picture a bib that looks like your suit: 1
+(sobbing) TED: 1
+You know what they say: 1
+But here's the thing: 1
+(giggles): 1
+TED (over baby monitor): 1
+I mean, that making-of documentary? "How Bernie Avoided The Gurney: 1
+So he overcorrects by dating her opposite: 1
+JUDY (over baby monitor): 1
+you guys just raced off into the night at 7: 1
+Even that party at your place-- you guys just raced off into the night at 7: 1
+ROBIN (quietly): 1
+Begged my mom to burn those. TED: 1
+Since you obviously have no interest in involving me in your personal life, I may as well tell you: 1
+Sure, bands seem cool with their nice suits and their well-rehearsed moves, but let's be honest: 1
+But I just need to know: 1
+The only thing that would make her more of a 20-year-old is an ironic form of transportation. BARNEY: 1
+I just happened to be out catching up on some Saturday afternoon leather cuff shopping, ROBIN: 1
+RING (whispers): 1
+Look, bottom line: 1
+(imitates Sean Connery): 1
+But here's the thing about Ted Mosby: 1
+(bad British accent): 1
+Damn, I always forget the little one. TED: 1
+(echoes): 1
+Again, I have to go with: 1
+♪ You, you're beautiful ALEX TREBEK: 1
+PAUL SHAFFER: 1
+We watched Robin Sparkles: 1
+NARRATOR (laughs): 1
+♪ The law can't stop my love ♪
+♪ I'll fit you like a glove ♪
+♪ Restraining orders don't scare me ♪
+♪ The lawyers at the record company ♪
+♪ Made me promise to say ROBIN (reading): 1
+WOMAN (over radio): 1
+It's 3: 1
+BECKY: 1
+TED (yelling): 1
+Bogey at 10: 1
+(muttering): 1
+News flash, Johnny Ascot: 1
+MAN (British accent): 1
+WOMAN (British accent): 1
+Mondays, right? LILY: 1
+I'm sorry, dude. But, hey, look at it this way: 1
+This is Robots vs. Wrestlers: 1
+Robots vs. Wrestlers: 1
+(scoffing): 1
+You got to go to Robots vs. Wrestlers: 1
+(fake coughs): 1
+20-Hours-From-Now-Me, just tell me one thing: 1
+Okay, how about this: 1
+20-MINUTES-FROM-NOW-BARNEY: 1
+20-YEARS-FROM-NOW-TED: 1
+I made you muffins because of your nickname: 1
+Lily, small order of business: 1
+Mission Impossible: 1
+Barney, this girl has the Mission Impossible: 1
+My summer in Paris, back in college, was so enlightening: 1
+Can you point me to the... GUYS: 1
+Oh, by the way, I talked to the florist, and the violets are gonna be gorgeous. BARNEY: 1
+MAN (menacingly): 1
+But here's my dilemma: 1
+(imitates Al Gore): 1
+TED (quietly): 1
+RALPH: 1
+(sneezes): 1
+ROBIN SENIOR: 1
+I got a big interview at 3: 1
+(silly high-pitched voice): 1
+Italy. MARSHALL: 1
+What I'm saying is: 1
+Guys, trust me: 1
+I only have one rule, you worthless maggots: 1
+I only have one rule: 1
+I have to be home by 4: 1
+is off shooting laser guns with, oh, yeah, you guessed it: 1
+Now I say to you the last words my father said to me: 1
+Oh, oh, uh, okay, hey, Mom, better idea: 1
+Okay, Mom, here's the plan: 1
+We shouldn't let a couple... MAN: 1
+KRIRSTEN: 1
+But real quick: 1
+(bad Southern accent): 1
+Okay, I don't know which I hate more: 1
+(deep male voice): 1
+BOTH (quietly): 1
+(old-timey): 1
+How, at the end, Andre the Giant hooks 'em up with those horses and then Inigo Montoya is like, "Fezzik, you did something right." And it's like, "Bro, Andre's been doing stuff right the whole movie: 1
+MURIEL: 1
+Still, when you think about it: 1
+Article one: 1
+Article 62: 1
+"Article 104: 1
+It's after 5: 1
+All right, all right. ALL: 1
+(in deep voice): 1
+I'm gonna tell you what I told Frampton's guitar tech when he couldn't find a condom: 1
+We even have an expression: 1
+Robin? Two things: 1
+James, let me spell this out for you: 1
+Now here's the deal: 1
+It brings to mind that religious text which we hold most sacred: 1
+Sad story: 1
+I'm just so tired of this routine: 1
+LOWELL: 1
+But, baby, you already have the best job in the world: 1
+SOPHIA: 1
+TV NARRATOR: 1
+Of course... WOMAN: 1
+ETHEREAL VOICE (softly): 1
+Marshall, I need you to rush to the Macy's in Herald Square, find the utility closet on the third floor, and bring me the following things: 1
+I've been there. LILY: 1
+Hey. MARSHALL: 1
+NIGHT CLERK: 1
+I've got a report here: 1
+Well, interesting that I was the one who fixed everything even though Marshall called me... third. NARRATOR: 1
+CROWD (chanting): 1
+What the Ohio State Board of Holistic Medicine has repeatedly told me I'm in no way qualified to do: 1
+LORETTA: 1
+(strained): 1
+Symposium: 1
+EDDIE: 1
+Ryan? ROBIN: 1
+HAMMOND DRUTHERS: 1
+Now, there were three people nearby when Barney gave me that head shot: 1
+I'm marrying into this family. BARNEY: 1
+Where were you today at 3: 1
+AUDIENCE (chanting): 1
+"So to summarize: 1
+Why, Marvin... MARSHALL: 1
+She asked timidly. He answered: 1
+All Ted could bring himself to think was: 1
+And as she tried to stammer some excuse to get away, Simon said: 1
+Yeah. MARSHALL: 1
+Hey, this is like that scene from Cool Hand Luke. You know, (Southern accent): 1
+At least we know one thing for sure: 1
+As Barney put it, oh so eloquently: 1
+He rose to go approach this girl commanding such intrigue when Mommy interrupted: 1
+So many great things 'bout this girl: 1
+As I departed, having bid this busty babe buh-bye, I stopped and looked around, and wondered: 1
+The sign read 22nd Street, and my concern decreased until a cold wind blew a branch aside, revealing: 1
+And such a better dresser. TED: 1
+Yes. MARSHALL: 1
+BUS DRIVER: 1
+Let me guess: 1
+(weird voice): 1
+(choking): 1
+So here's how he does it: 1
+Slapsgiving No. 3: 1
+The proper question is: 1
+You know my mom's rule: 1
+Just like I don't buy what her son told me: 1
+And now... the best thing to come out of my cross-country trip: 1
+TED (recorded): 1
+Uh, Barney... who's taller: 1
+♪ More bugs MARSHALL: 1
+Nothing good happens after 2: 1
+Mm-hmm. Mm-hmm. KELLY: 1
+DARREN: 1
+But you're not here anymore... so I have to ask this: 1
+DESK CLERK: 1
+MAN 2: 1
+It was the classic story: 1
+BARNEY (slurring): 1
